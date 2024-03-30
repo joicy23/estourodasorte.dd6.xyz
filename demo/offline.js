@@ -81,8 +81,8 @@
 		"icon-256.webp",
 		"loading-logo.webp",
 		"anton-demo.html",
-		"anton-webfont.woff",
-		"anton-webfont.woff2",
+		"../anton-webfont.woff",
+		"../anton-webfont.woff2",
 		"generator_config.txt",
 		"stylesheet.css"
 	]
